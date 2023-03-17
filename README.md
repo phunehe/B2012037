@@ -34,7 +34,7 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
+## Contact
 
-[LIÊN HỆ](https://facebook.com/phune.jj)
+[LIÊN HỆ VỚI TÔI](https://facebook.com/phune.jj)
 
